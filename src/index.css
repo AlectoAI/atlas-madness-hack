@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+    margin-left: 42px;
+    margin-top: 42px;
+    display: inline-block;
+    margin-right: 42px;
+}
+h2 {
+    margin-left: 42px;
+    display: inline-block;
+    margin-right: 42px;
+}
+button {
+    display: inline-block;
+    margin-right: 0;
+}
+img {
+    margin: auto;
+    margin-bottom: 2px;
+    display: block;
+}
+.center-input {
+  margin: auto;
+  display: block;
+  margin-left: 172px;
+}
+.center-upload_button {
+    margin: auto;
+    display: block;
+  }
+
+
